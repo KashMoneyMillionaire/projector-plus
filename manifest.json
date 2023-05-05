@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Projector Plus",
+  "version": "1.0",
+  "description": "Add missing Projector functionality",
+  "icons": {
+    "16": "images/projector_plus.png",
+    "32": "images/projector_plus.png",
+    "48": "images/projector_plus.png",
+    "128": "images/projector_plus.png"
+  },
+  "content_scripts": [
+    {
+      "js": ["scripts/inject.js"],
+      "matches": [
+        "https://app.projectorpsa.com/timeoff"
+      ]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "scripts/timeoff.js"
+      ],
+      "matches": ["https://app.projectorpsa.com/*"]
+    }
+  ]
+}
