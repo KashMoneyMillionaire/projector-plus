@@ -2,12 +2,12 @@ This repo is to create Chrome/Edge (maybe more browsers in the future) extension
 
 # Installation (on Chrome (and probably Edge))
 
-1. Download the zipped extension [here](https://raw.githubusercontent.com/KashMoneyMillionaire/projector-plus/main/projector-plus.zip)
+1. Download the zipped extension here: https://raw.githubusercontent.com/KashMoneyMillionaire/projector-plus/main/projector-plus.zip
    a. Sometimes that zip doesn't work for Mac. Instead, download the directory zip, then unzip that to get the embedded zip
 	
 2. Unzip `projector-plus.zip` 
 	
-3. Follow instructions to install it [from Google](https://support.google.com/chrome/a/answer/2714278?hl=en#:~:text=Go%20to%20chrome%3A%2F%2Fextensions,the%20app%20or%20extension%20folder.)
+3. Follow instructions to install it from Google: https://support.google.com/chrome/a/answer/2714278?hl=en#:~:text=Go%20to%20chrome%3A%2F%2Fextensions,the%20app%20or%20extension%20folder
 	
 4. Navigate to https://app.projectorpsa.com/timeoff
 	
